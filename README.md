@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](/resources/QR-code.png)
 
 The QR Code Generator project allows users to input a URL and generate a QR code. Users can download the generated QR code with custom styles, including background color and padding.
 
